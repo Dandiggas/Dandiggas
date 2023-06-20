@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dandiggas
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java development projects
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevOps - Python, Linux, Terraform, Docker, Kubernetes, Ansible and Aws
+- 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me Dandiggasmusic@gmail.com
 
 <!---
