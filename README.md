@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dandiggas
+- 👋 Hi, I’m Daniel Adekugbe
 - 👀 I’m a Software Engineer
 - 📫 How to reach me dadekugbe@gmail.com
 - https://www.linkedin.com/in/daniel-adekugbe-11a71859/
