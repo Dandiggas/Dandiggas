@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 I'm a software engineer, mainly working on backend projects using python and golang, with the occasional react app. 
-I also into cloud computing and terraform. 
+I'm also into cloud computing and terraform. 
 
 ## 🚀 What I'm Up To
 
