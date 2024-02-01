@@ -7,8 +7,8 @@ I also into cloud computing and terraform.
 
 ## 🚀 What I'm Up To
 
-- Building a practice application with python-django
-- Building a musician hiring platform with golang 
+- Currently building a musician practice application with python-django
+- Currently building a musician hiring platform with golang 
 
 Check out my [coding portfolio!](https://erikc-portfolio.netlify.app/)
 
