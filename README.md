@@ -10,7 +10,7 @@ I'm also into cloud computing and terraform.
 - Currently building a musician practice application with python-django
 - Currently building a musician hiring platform with golang 
 
-Check out my [coding portfolio!](https://erikc-portfolio.netlify.app/)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-adekugbe-11a71859/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dandevcloud) 
