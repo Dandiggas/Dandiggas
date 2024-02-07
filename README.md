@@ -7,7 +7,7 @@ I'm also into cloud computing and terraform.
 
 ## 🚀 What I'm Up To
 
-- Currently building a musician practice application with python-django
+- Currently building a musician practice application with python-django backend and react frontend
 - Currently building a musician hiring platform with golang 
 
 
