@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-As a Full Stack Developer, my expertise lies in building RESTful APIs with Django and enhancing system-level development with Golang. I utilize Docker for consistent application deployment and Terraform for secure cloud infrastructure. My experience in AWS covers services like S3, EC2, Lambda, and more, complemented by my skills in Heroku for cloud deployment.
+As a Full Stack Developer, my expertise lies in building RESTful APIs with Golang and enhancing system-level development with Rust. I utilize Docker for consistent application deployment and Terraform for secure cloud infrastructure. My experience in AWS covers services like S3, EC2, Lambda, and more, complemented by my skills in Heroku for cloud deployment.
 
 I maintain high code quality using testing libraries like PyTest and the Go testing package, and I'm currently expanding into Kubernetes and microservice architecture. My workflow incorporates Git for version control and GitHub Actions for efficient CI/CD pipelines, streamlining testing and deployment processes. This approach underscores my commitment to continuous learning and adapting to new technologies in backend development.
 
@@ -18,8 +18,9 @@ I maintain high code quality using testing libraries like PyTest and the Go test
 
 # 💻 Tech Stack:
 Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-E57324?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 
 Cloud Providers:
