@@ -18,9 +18,8 @@ I maintain high code quality using testing libraries like PyTest and the Go test
 
 # 💻 Tech Stack:
 Languages:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
-![Rust](https://img.shields.io/badge/rust-E57324?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 
 Cloud Providers:
