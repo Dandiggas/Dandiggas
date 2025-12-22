@@ -1,15 +1,29 @@
 <h1 align="center">Hi 👋 I'm Daniel Adekugbe</h1>
 
+I’m a **Software Engineer focused on backend systems, cloud infrastructure, and applied AI**, with hands-on experience building and operating **production-grade services on AWS**.
 
-# 💫 About Me:
-As a Full Stack Developer, my expertise lies in building RESTful APIs with Python and Golang. I utilize Docker for consistent application deployment and Terraform for secure cloud infrastructure. My experience in AWS covers services like S3, EC2, Lambda, and more, complemented by my skills in Heroku for cloud deployment.
+My work sits at the intersection of **backend engineering and cloud-native system design** — writing Python and Go services, deploying them to Kubernetes and serverless runtimes, and using infrastructure-as-code and CI/CD to ensure systems are **secure, observable, and reliable in production**.
 
-I maintain high code quality using testing libraries like PyTest and the Go testing package, and I'm currently expanding into Rust and Web3. My workflow incorporates Git for version control and GitHub Actions for efficient CI/CD pipelines, streamlining testing and deployment processes. This approach underscores my commitment to continuous learning and adapting to new technologies in backend development.
+Alongside core backend work, I build **applied AI systems using LangGraph**, designing agents and workflows that integrate cleanly into existing architectures and behave **predictably beyond demo environments**.
 
-## 🚀 What I'm Up To
+### What I work on
 
-- Currently building a musician practice application with python-django backend and react frontend
-- Currently building a musician hiring platform with golang 
+- **Backend & Cloud Systems**  
+  Python/Go microservices, AWS Lambda, API Gateway, SQS, IAM, VPC fundamentals, Aurora & DynamoDB
+
+- **Kubernetes & Runtime Infrastructure**  
+  EKS workloads, IRSA, scaling patterns, Helm-based deployments
+
+- **Infrastructure as Code**  
+  Terraform modules, CloudFormation, repeatable environment provisioning
+
+- **CI/CD & Production Operations**  
+  GitHub Actions, container pipelines, structured logging, observability, failure-aware design
+
+- **Applied AI**  
+  LangGraph agents, retrieval and memory patterns, multi-tool workflows, production deployment strategies
+
+I care about **systems that work in the real world** — clear architecture, predictable behaviour under load, and AI capabilities that are **thoughtfully integrated into backend services rather than bolted on**.
 
 
 
