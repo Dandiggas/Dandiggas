@@ -9,7 +9,7 @@ Alongside core backend work, I build **applied AI systems using LangGraph**, des
 ### What I work on
 
 - **Backend & Cloud Systems**  
-  Python/Go microservices, AWS Lambda, API Gateway, SQS, IAM, VPC fundamentals, Aurora & DynamoDB
+  Python/Rust microservices, AWS Lambda, API Gateway, SQS, IAM, VPC fundamentals, Aurora & DynamoDB
 
 - **Kubernetes & Runtime Infrastructure**  
   EKS workloads, IRSA, scaling patterns, Helm-based deployments
