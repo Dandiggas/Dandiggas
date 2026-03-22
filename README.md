@@ -2,7 +2,7 @@
 
 I’m a **Software Engineer focused on backend systems, cloud infrastructure, and applied AI**, with hands-on experience building and operating **production-grade services on AWS**.
 
-My work sits at the intersection of **backend engineering and cloud-native system design** — writing Python and Go services, deploying them to Kubernetes and serverless runtimes, and using infrastructure-as-code and CI/CD to ensure systems are **secure, observable, and reliable in production**.
+My work sits at the intersection of **backend engineering and cloud-native system design** — writing Python and Rust services, deploying them to Kubernetes and serverless runtimes, and using infrastructure-as-code and CI/CD to ensure systems are **secure, observable, and reliable in production**.
 
 Alongside core backend work, I build **applied AI systems using LangGraph**, designing agents and workflows that integrate cleanly into existing architectures and behave **predictably beyond demo environments**.
 
@@ -33,7 +33,7 @@ I care about **systems that work in the real world** — clear architecture, pre
 # 💻 Tech Stack:
 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 
 Cloud Providers:
