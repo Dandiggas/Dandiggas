@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Daniel Adekugbe</h1>
 
-**Platform engineer from the security side, making AI agents safe to run in production.**
+**Software engineer at the intersection of platform infrastructure, security, and AI, making agents safe to run in production.**
 
 I build and operate the controls that let companies hand real power to AI agents: per-agent identity and least-privilege tool scoping, gated actions ("propose, never promote"), full trace audit, and eval-backed verification. Day job at Sophos: a production agent workflow platform and MCP servers over a threat-intelligence graph. The same patterns run in the public working code below.
 
